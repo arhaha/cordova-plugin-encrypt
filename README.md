@@ -1,1 +1,1 @@
-# cordova-plugins-encrypt
+# cordova-plugin-encrypt
