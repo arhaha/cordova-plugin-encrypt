@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-encrypt",
+  "name": "com.matrixgz.cordova-plugin-encrypt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
